@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Messaggio
+comment1.params=testo\ mittente\ destinatario\ mode
+comment1.target=Messaggio(java.lang.String,\ java.lang.String,\ java.lang.String,\ char)
+comment2.params=
+comment2.target=java.lang.String\ getText()
+comment3.params=
+comment3.target=java.lang.String\ getMitt()
+comment4.params=
+comment4.target=java.lang.String\ getDest()
+comment5.params=
+comment5.target=char\ getMode()
+comment6.params=
+comment6.target=java.time.LocalDateTime\ getTime()
+numComments=7
